@@ -832,7 +832,7 @@ img {
 }
 
 .input-btn:hover {
-    background: #111;
+    background-color: #7c2f8f !important;
     color: #fff;
 }
 
